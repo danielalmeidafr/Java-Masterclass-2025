@@ -1,4 +1,4 @@
-package masterclass.topic11.Generics;
+package masterclass.topic12.Generics;
 
 import java.util.ArrayList;
 import java.util.List;
